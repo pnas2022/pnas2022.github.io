@@ -1,1 +1,1 @@
-# pnas2022.github.io
+Thanks for visiting the Github page for the paper, "Virtual Teams for a Gig Economy"! The code is available through \href{https://github.com/zxhui0/PNAS_2022_code}{this Git repository}. To access the code, please ask the authors for access code. 
